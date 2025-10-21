@@ -5,3 +5,24 @@ font-family: "Kanit", sans-serif;
 font-weight: 500;
 font-style: normal;
 }
+
+.home-section{
+    background-color: #C1DCDC;
+}
+
+.h1-section{
+    white-space: pre-line;
+    font-weight: bolder;
+    font-size: 4rem;
+}
+
+.search-pill{
+border: none;
+width: 60%;
+}
+
+.search-pill .btn-custom-search {
+background-color: #000; 
+border: none;
+color: white;
+}
