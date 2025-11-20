@@ -6,6 +6,19 @@ font-weight: 500;
 font-style: normal;
 }
 
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+footer a {
+    font-weight: 300;
+}
+
 .home-section{
     background-color: #C1DCDC;
 }
